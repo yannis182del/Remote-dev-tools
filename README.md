@@ -6,7 +6,7 @@
 
 [Live share audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) - Visual Studio Live Share Audio enhances the existing Visual Studio Live Share experience, by enabling you to quickly spin up an audio call directly from within Visual Studio Code
 
-[Live share chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Live Share enables your team to quickly collaborate on the same codebase without the need to synchronize code or to configure the same development tools, settings, or environment.
+[Live share chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Live Share Chat is a companion extension for Visual Studio Live Share, which enables you to collaboratively edit and debug code with others, in real time.
 
 [Live share whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - Live Share Whiteboard enhances the existing Visual Studio Live Share experience, by enabling you to open an integrated whiteboard, without needing to use a seperate tool or service. All participants within a Live Share session can collaboratively draw on the whiteboard, and see each others changes in real-time.
  
