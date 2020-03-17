@@ -19,7 +19,7 @@
 
 [Slack](https://slack.com/) - Keep conversations organised in Slack, the smart alternative to email.
 
-[Zoom](https://zoom.us/) ->Zoom provides remote conferencing services that combines video conferencing, online meetings, chat, and mobile collaboration.
+[Zoom](https://zoom.us/) - Zoom provides remote conferencing services that combines video conferencing, online meetings, chat, and mobile collaboration.
 ## Team Culture
 
 [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
