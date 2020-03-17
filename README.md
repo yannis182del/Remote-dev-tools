@@ -1,6 +1,6 @@
 # Remote-dev-tools
 
-## Dev Tools
+## Dev Tools 👩‍💻
 
 [Live share](https://code.visualstudio.com/blogs/2017/11/15/live-share) - Live Share enables your team to quickly collaborate on the same codebase without the need to synchronize code or to configure the same development tools, settings, or environment.
 
@@ -17,7 +17,7 @@
  
  [InVision](https://www.invisionapp.com/) - InVision is a prototyping platform for design-driven product development featuring real-time, in-browser collaboration, presentation, and testing tools.
  
- ## Team Productivity 👩‍💻
+ ## Team Productivity 🗓
  
 [Rescue time](https://www.rescuetime.com/) - RescueTime helps you understand where your time goes each day. Optimize your energy. And take back control of your day.
  
@@ -26,12 +26,13 @@
 [Slack](https://slack.com/) - Keep conversations organised in Slack, the smart alternative to email.
 
 [Zoom](https://zoom.us/) - Zoom provides remote conferencing services that combines video conferencing, online meetings, chat, and mobile collaboration.
-## Team Culture 
+
+## Team Culture 👨‍👩‍👦‍👦
 
 [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
 Bring your remote team together with real team presence, automated selfie photos, simple 1 click video calls and see their status throughout the day.
 
-## Project Management
+## Project Management 📝
 
 [Jira](https://www.atlassian.com/software/jira) - Jira Software is built for every member of your software team to plan,
 track, and release great software.
