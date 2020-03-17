@@ -17,7 +17,7 @@
  
  [InVision](https://www.invisionapp.com/) - InVision is a prototyping platform for design-driven product development featuring real-time, in-browser collaboration, presentation, and testing tools.
  
- ## Team Productivity
+ ## Team Productivity 👩‍💻
  
 [Rescue time](https://www.rescuetime.com/) - RescueTime helps you understand where your time goes each day. Optimize your energy. And take back control of your day.
  
@@ -26,7 +26,7 @@
 [Slack](https://slack.com/) - Keep conversations organised in Slack, the smart alternative to email.
 
 [Zoom](https://zoom.us/) - Zoom provides remote conferencing services that combines video conferencing, online meetings, chat, and mobile collaboration.
-## Team Culture
+## Team Culture 
 
 [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
 Bring your remote team together with real team presence, automated selfie photos, simple 1 click video calls and see their status throughout the day.
@@ -37,6 +37,13 @@ Bring your remote team together with real team presence, automated selfie photos
 track, and release great software.
 
 [Confluence](https://www.atlassian.com/software/confluence) - Confluence is your team workspace where knowledge and collaboration meet to achieve great things.
+
+## After Work 🍺
+
+[Gitcoin](https://gitcoin.co/) - Gitcoin is an open source bounties platform on the Ethereum blockchain. Gitcoin allows open source developers to get paid for their work contributing to open source projects and in return, the open source projects get exposure to a vast community of hard working developers they might not have had otherwise.
+
+[Codewars](https://www.codewars.com/) - Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
+
 
 
 
