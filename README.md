@@ -17,6 +17,8 @@
  
 [ToDoist](https://todoist.com/) - Organize it all with Todoist.
 
+[Slack](https://slack.com/) - Keep conversations organised in Slack, the smart alternative to email.
+
 ## Team Culture
 
 [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
