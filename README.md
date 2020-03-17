@@ -22,6 +22,14 @@
 [PukkaTeam](https://pukkateam.com/) - Remote Team Communication, Made Easy.
 Bring your remote team together with real team presence, automated selfie photos, simple 1 click video calls and see their status throughout the day.
 
+## Project Management
+
+[Jira](https://www.atlassian.com/software/jira) - Jira Software is built for every member of your software team to plan,
+track, and release great software.
+
+[Confluence](https://www.atlassian.com/software/confluence) - Confluence is your team workspace where knowledge and collaboration meet to achieve great things.
+
+
 
  
  
