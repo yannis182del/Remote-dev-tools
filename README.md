@@ -46,6 +46,10 @@ track, and release great software.
 [Codewars](https://www.codewars.com/) - Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
 
 
+[EggHead](https://egghead.io/) - Concise screencast video tutorials that cover the best tools, libraries, and frameworks that modern javascript web developers can use to code more effectively.
+
+
+
 
 
  
