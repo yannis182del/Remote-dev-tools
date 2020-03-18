@@ -19,6 +19,8 @@
  
  ## Team Productivity 🗓
  
+[Boost Note](https://boostnote.io/) - An intuitive and stylish markdown note app for developers. It's fully open-source.
+
 [Rescue time](https://www.rescuetime.com/) - RescueTime helps you understand where your time goes each day. Optimize your energy. And take back control of your day.
  
 [ToDoist](https://todoist.com/) - Organize it all with Todoist.
